@@ -1,3 +1,32 @@
 .ticket {
-  border: 1px solid black;
+  border: 3px solid #a52a68;
+  background: #fcdc4dff;
+  border-radius: 15px; 
+  display: flex; 
+  justify-content: space-around;
+  flex-direction: column;  
+  &__generic {
+    margin-bottom: 10px; 
+  }
+  &__plus-button, &__minus-button {
+    margin: 30px; 
+    font-size: 50px; 
+    border-radius: 15px;  
+    border-color: black; 
+    padding: 0px; 
+  }
+  &__name {
+    margin-top: 10px; 
+  }
+  &__counter-number {
+    font-size: 30px; 
+  }
+  &__line {
+    margin-left: 35px; 
+    margin-right: 35px;
+    border: 1px solid black; 
+   
+  }
+
 }
+

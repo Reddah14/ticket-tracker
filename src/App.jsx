@@ -1,8 +1,5 @@
-import react from 'react';
-
 import './App.scss';
 import Board from './components/Board/Board';
-import team from './team';
 
 function App() {
   return (
