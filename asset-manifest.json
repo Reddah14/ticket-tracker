@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Reddah14/ticket-tracker/static/css/main.61209ac1.chunk.css",
+    "main.js": "/Reddah14/ticket-tracker/static/js/main.52068cca.chunk.js",
+    "main.js.map": "/Reddah14/ticket-tracker/static/js/main.52068cca.chunk.js.map",
+    "runtime-main.js": "/Reddah14/ticket-tracker/static/js/runtime-main.252d98d9.js",
+    "runtime-main.js.map": "/Reddah14/ticket-tracker/static/js/runtime-main.252d98d9.js.map",
+    "static/js/2.b75eb054.chunk.js": "/Reddah14/ticket-tracker/static/js/2.b75eb054.chunk.js",
+    "static/js/2.b75eb054.chunk.js.map": "/Reddah14/ticket-tracker/static/js/2.b75eb054.chunk.js.map",
+    "index.html": "/Reddah14/ticket-tracker/index.html",
+    "static/css/main.61209ac1.chunk.css.map": "/Reddah14/ticket-tracker/static/css/main.61209ac1.chunk.css.map",
+    "static/js/2.b75eb054.chunk.js.LICENSE.txt": "/Reddah14/ticket-tracker/static/js/2.b75eb054.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Reddah14/ticket-tracker/static/media/board.3b6661f2.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.252d98d9.js",
+    "static/js/2.b75eb054.chunk.js",
+    "static/css/main.61209ac1.chunk.css",
+    "static/js/main.52068cca.chunk.js"
+  ]
+}
