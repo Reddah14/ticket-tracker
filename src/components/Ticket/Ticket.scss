@@ -5,7 +5,7 @@
   display: flex; 
   justify-content: space-around;
   flex-direction: column;  
-  &__generic {
+  &__sub-item {
     margin-bottom: 10px; 
   }
   &__plus-button, &__minus-button {
@@ -26,8 +26,6 @@
     margin-left: 35px; 
     margin-right: 35px;
     border: 1px solid black; 
-   
   }
-
 }
 
