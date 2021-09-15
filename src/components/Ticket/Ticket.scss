@@ -16,6 +16,14 @@
     border-color: black; 
     padding: 0px; 
   }
+  &__plus-button:hover {
+     color: green;
+     transform: scale(1.5,1.5);
+  }
+  &__minus-button:hover {
+    color: red;
+    transform: scale(1.5,1.5);
+ }
   &__name {
     margin-top: 10px; 
   }
